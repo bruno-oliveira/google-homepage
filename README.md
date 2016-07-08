@@ -1,1 +1,1 @@
-# google-homepage
+# google-homepageFirst HTML/CSS project by the Odin Project, to statically design google front-end page.
